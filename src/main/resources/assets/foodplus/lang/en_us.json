@@ -1,0 +1,14 @@
+{
+  "itemGroup.foodplus": "Food Plus",
+  "block.foodplus.example_block": "Example Block",
+  "item.foodplus.example_item": "Example Item",
+
+  "item.foodplus.hamburger": "Hamburger",
+  "item.foodplus.cheeseburger": "Cheeseburger",
+  "item.foodplus.cheese": "Cheese",
+  "item.foodplus.cheese_wheel": "Cheese Wheel",
+  "item.foodplus.cheese_slice": "Cheese Slice",
+  "item.foodplus.raw_bacon": "Raw Bacon",
+  "item.foodplus.cooked_bacon": "Bacon"
+
+}
