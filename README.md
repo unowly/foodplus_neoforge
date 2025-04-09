@@ -1,25 +1,20 @@
+![Food Plus BETA](https://cdn.modrinth.com/data/cached_images/e0e67398d69095f732ee9f7c17360f32fa120083.png)
 
-Installation information
-=======
-
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+### This Mod is currently in development
+My girlfriend and I decided to implement some fast food items into minecraft such as burger and bacon.\
+All of the textures are handmade by myself, but in the future there will be more designed by my girlfriend. \
+We would appreciate if you would give us some feedback on our Discord server.
+\
+### Current recipes
+- Hamburger: Crafting -> Bread - Steak
+- Cheeseburger: Crafting -> Bread - Steak - Cheese Slice
+- Cheese Wheel: Smelting -> Milk
+- Cheese: Crafting -> Cheeswheel
+- Cheese Slice: Crafting -> Cheese
+- Raw Bacon: Crafting -> Porkchop
+- Cooked Bacon: Smelting -> Raw Bacon
+\
+### Future updates
+We will try to implement growable tomatoes and other crops until end of april. Next step is to customize the excessive eating of fast food with status effects like "obesity" (which can be toggled on or of in config), and many other food components. \
+\
+If you have an idea on what would fit into the style of this mod feel free to contact us via Discord!
